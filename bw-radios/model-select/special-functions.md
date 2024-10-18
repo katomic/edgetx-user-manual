@@ -25,7 +25,8 @@ Below are all the available functions in EdgeTX, what they do, as well as what a
 
 **Trainer -** Enables trainer mode.
 
-* **Value** - Specifies which controls will be given over to the student. Options include **Sticks** (all sticks), **Rud** (Rudder), **Ele** (Elevator), **Thr** (Throttle), **Ail** (Aileron), and **Chans** (all channels).&#x20;
+* **Value** - Specifies which controls will be given over to the student. Options include **Sticks** (all sticks), **Rud** (Rudder), **Ele** (Elevator), **Thr** (Throttle), **Ail** (Aileron),
+  **Chans** (all channels), and  **Trainer Axis** (?????).&#x20;
 
 **Inst. Trim** (Instant Trim)- Sets all trims to the current values of their respective sticks.
 
